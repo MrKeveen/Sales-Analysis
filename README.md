@@ -32,4 +32,5 @@ In the initial data preparation phase, we performed the following tasks:
 ### Data Analysis
 Excel Pivot Table is used in the analysis.
 
+### Results
 
