@@ -34,3 +34,22 @@ Excel Pivot Table is used in the analysis.
 
 ### Results
 
+The analysis result are summarized as follows:
+
+Beverages is the best performing in terms of category, followed by Dried fruit and Nuts. Others include sauces, jam, preserves and Candy.
+
+In the regions, the top seller in the north is the curry sauce, south and west is the coffee while east is the marmalade.
+
+Dried plums and green tea is the lowest product by category sold in the eastern, southern and western regions while Dried pears and green tea in the Northern region. 
+
+The overall best seller by revenue is coffee.
+
+The product category with good revenue in the regions should be targeted more for marketing efforts. The regions with low revenue generation, increased presence in those regions and customer centered marketing can help increase sales performance in those regions.
+
+### Recommendations
+
+Based on the analysis, we recommend the following actions:
+1. Invest in marketing and promotions in those regions with low sales so as to maximize revenue. 
+2. Focus on expanding and promoting products in Dried fruits and Nuts category.
+3. Implement a customer segmentation strategy to target high-LIV customers effectively.
+
