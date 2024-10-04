@@ -20,14 +20,19 @@ In the initial data preparation phase, we performed the following tasks:
 - Data loading and inspection.
 - There were no missing values.
 - Data cleaning and formatting.
-- I created a new column called "Profit." I did this by subtracting the "shipping fee" from the "revenue."
+- I created two new columns called "Profit." and "Day of the Week". I "Profit column" by subtracting the "shipping fee" from the "revenue." And the "Day of the Week" by using the "Weekday" and "Text" functions.
 
 ### Exploratory Data Analysis
 
-1. Top 5 products by category?
-2. Top 5 products by region?
-3. Lowest 2 products by region and category
-4. Which products are the top sellers?
+1. Total Revenue?
+2. Average shipping cost?
+3. Total number of orders?
+4. Top 10 products by Revenue?
+5. Top 10 products categories by quantities sold?
+6. Total orders by days of the week?
+7. Shipping company with the quantity shipped?
+8. City with Highest Revenue
+9. Salesperson with the highest Revenue 
 
 ### Data Analysis
 Excel Pivot Table is used in the analysis.
@@ -36,20 +41,25 @@ Excel Pivot Table is used in the analysis.
 
 The analysis result are summarized as follows:
 
-Beverages is the best performing in terms of category, followed by Dried fruit and Nuts. Others include sauces, jam, preserves and Candy.
+Beverages is the best performing in terms of category, followed by Dried fruit and Nuts. Others include candy, Baked goods and mixes, sauces, soups with jam being the least.
 
-In the regions, the top seller in the north is the curry sauce, south and west is the coffee while east is the marmalade.
+Monday topped as the best selling day of the week. While friday and sunday followed respectively .
 
-Dried plums and green tea is the lowest product by category sold in the eastern, southern and western regions while Dried pears and green tea in the Northern region. 
+The product with the highest revenue is Coffee, followed by Curry sauce and Dried Apples. 
 
-The overall best seller by revenue is coffee.
+The overall best seller by revenue generated is coffee.
 
-The product category with good revenue in the regions should be targeted more for marketing efforts. The regions with low revenue generation, increased presence in those regions and customer centered marketing can help increase sales performance in those regions.
+The shipping company with the most shipped products is Comapany B with 37% shipped, while Company C has 27% shipped and company C with 27% shipped so far.
+
+New York topped the chart with the city with the highest Revenue Generated with $15,906.10. Milwaukee came second with $9,111.75 and Chicago at the third place with $8,278.07
+
+Nancy Freehafer topped as the best salesperson with the highest sales generated with $17,800.48. Andrew Cencini came second with $15,906.10, while Anna Larsen came third with $14.873.27.
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
-1. Invest in marketing and promotions in those regions with low sales so as to maximize revenue. 
+1. Invest in marketing and promotions in products and Cities with low sales so as to maximize revenue. 
 2. Focus on expanding and promoting products in Dried fruits and Nuts category.
 3. Implement a customer segmentation strategy to target high-LIV customers effectively.
+4. Introduce an incentive package for salesperson who meet a certain conditions to be rewarded.
 
