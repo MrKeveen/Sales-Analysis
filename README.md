@@ -31,8 +31,8 @@ In the initial data preparation phase, we performed the following tasks:
 5. Top 10 products categories by quantities sold?
 6. Total orders by days of the week?
 7. Shipping company with the quantity shipped?
-8. City with Highest Revenue
-9. Salesperson with the highest Revenue 
+8. City with Highest Revenue?
+9. Salesperson with the highest Revenue?
 
 ### Data Analysis
 Excel Pivot Table is used in the analysis.
